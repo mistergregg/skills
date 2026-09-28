@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "jetbrains": {
+      "type": "sse",
+      "url": "http://localhost:64342/sse"
+    }
+  }
+}
